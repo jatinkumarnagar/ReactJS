@@ -1,0 +1,6 @@
+@media (min-width: 574px) {
+    .todo-container{
+        border-top: 0px;
+        margin-top: 14px;
+    }
+}
